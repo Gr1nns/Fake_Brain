@@ -7,10 +7,10 @@ def wave():
 
 delta = wave() * 2
 theta = wave() * 6
-alpha = wave * 10
+alpha = wave() * 10
 mu = wave() * 11
 sigma = wave() * 14
-beta = wave * 20
+beta = wave() * 20
 gamma = wave() * 40
 high_gamma = wave() * 80
 
