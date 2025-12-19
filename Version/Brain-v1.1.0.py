@@ -49,9 +49,6 @@ ondas = {}
 for name, (freq, amp) in banda.items():
     ondas[name] = wave(freq, amp)
 
-for name, onda in ondas.items():
-        print(onda[:5])
-
 N1 = np.random.normal(0, 5, size=len(t)) # White Noise
 N2 = np.sin(2 * np.pi * 60 * t) * ampS # Network Noise
 
