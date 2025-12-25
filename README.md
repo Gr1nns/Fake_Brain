@@ -1,4 +1,4 @@
-# Fake_Brain
+# Artificial Neural Signal Generator & Processor
 It's a computational model inspired by the human brain, capable of generating, processing, and interpreting neural signals.
 
 # O que é o projeto?
