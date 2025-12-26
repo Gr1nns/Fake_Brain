@@ -1,4 +1,4 @@
- Introduction
+# Introduction
 
 Understanding neural signals is a fundamental challenge in neuroscience and neuroengineering.
 Electroencephalography (EEG) provides a non-invasive way to observe brain activity, but real-world EEG acquisition is often limited by noise, hardware constraints, and accessibility.
