@@ -1,7 +1,7 @@
 # Methodology Overview
 
-This project adopts an exploratory and iterative research methodology.
-Instead of following a fixed implementation path, different strategies for neural signal generation and processing are explored, tested, and evaluated over time.
+This project will utilize an exploratory approach and iterative research methods. 
+Instead of following a fixed path, different strategies for generating and processing neural signals will be explored, tested, and evaluated over time.
 
 Key methodological principles include:
 - Modular design, allowing independent experimentation
