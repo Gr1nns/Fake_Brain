@@ -3,7 +3,8 @@
 ## What is this project?
 The **Artificial Neural Signal Generator & Processor** is a computational research project inspired by the human brain, focused on the generation, processing, and analysis of neural signals, particularly EEG-like signals.
 
-# Motivação cientifica
+# Scientific Motivation
+Real EEG acquisition presents several challenges, including high noise levels, hardware costs, and limited accessibility for early-stage research.
 
 # Estrutura do repositorio:
 
