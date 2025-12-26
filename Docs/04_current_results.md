@@ -1,6 +1,6 @@
 # Current Results
 
-At its current stage, the project focuses on early experimentation and validation of artificial neural signal generation concepts.
+At the moment, the project focuses on early experimentation and validation of artificial neural signal generation concepts.
 
 Initial results include:
 - Preliminary signal generation experiments
