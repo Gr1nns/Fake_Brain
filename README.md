@@ -12,5 +12,6 @@ This project follows an exploratory and modular research approach.
 Different signal generation and processing strategies are investigated and evaluated over time, allowing the project to evolve as new ideas, tools, and insights emerge.
 
 ## Project Status
-🚧 Early-stage research and development. 
+🚧 Early-stage research and development.
+
 Current focus: artificial neural signal generation and low-level processing.
