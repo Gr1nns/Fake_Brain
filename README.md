@@ -7,10 +7,9 @@ The Neural Signal Generator and Processor is a research project about the human 
 The motivation for this project stems from the fact that acquiring an EEG device comes with several challenges, such as high noise levels and the cost of the hardware, making it difficult to conduct research on this topic if you cannot purchase an EEG device.
 
 ## Research Approach
-This project follows an exploratory and modular research approach.  
-Different signal generation and processing strategies are investigated and evaluated over time, allowing the project to evolve as new ideas, tools, and insights emerge.
+This project will follow the form of exploratory modular research.
+By generating different types of signals and exploring ways to continuously improve, the project is allowed to evolve with new ideas.
 
 ## Project Status
-Early-stage research and development.
-
-Current focus: artificial neural signal generation and low-level processing.
+Early stages of development.
+Separating the main code into several separate codes for optimization.
