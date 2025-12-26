@@ -1,7 +1,6 @@
 # Introduction
 
-Understanding neural signals is a fundamental challenge in neuroscience and neuroengineering.
-Electroencephalography (EEG) provides a non-invasive way to observe brain activity, but real-world EEG acquisition is often limited by noise, hardware constraints, and accessibility.
+Understanding neural signals is a major challenge for neuroscience and neuroengineering. Electroencephalography (EEG) provides a non-invasive way to observe brain activity, but acquiring an EEG device has limitations, such as noise, hardware cost, and accessibility.
 
 This project proposes a computational framework for the generation and low-level processing of artificial neural signals inspired by EEG activity.
 By working with simulated data, the project aims to provide a controlled environment for experimentation, exploration, and early-stage hypothesis testing related to neural signal behavior.
