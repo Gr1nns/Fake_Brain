@@ -11,5 +11,3 @@
 - Cognitive interpretation or semantic decoding of neural signals
 - Real-time brain–computer interface control
 - Hardware-dependent EEG acquisition
-
-Defining these boundaries ensures conceptual clarity and allows the project to evolve without overcommitting to premature objectives.
