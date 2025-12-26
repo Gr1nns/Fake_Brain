@@ -4,8 +4,7 @@
 The Neural Signal Generator and Processor is a research project about the human brain. It focuses on generating waves that an electroencephalogram (EEG) would interpret and then process.
 
 ## Scientific Motivation
-Real EEG acquisition presents some challenges, including high noise levels, hardware costs, and limited accessibility for early-stage research.  
-This project explores computational approaches for generating and analyzing artificial neural signals, aiming to create a controlled environment for experimentation, analysis, and hypothesis testing related to neural activity.
+The motivation for this project stems from the fact that acquiring an EEG device comes with several challenges, such as high noise levels and the cost of the hardware, making it difficult to conduct research on this topic if you cannot purchase an EEG device.
 
 ## Research Approach
 This project follows an exploratory and modular research approach.  
