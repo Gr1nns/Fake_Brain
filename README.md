@@ -8,3 +8,5 @@ Real EEG acquisition presents several challenges, including high noise levels, h
 This project explores computacional approaches for generating and analyzing artificial neural signals, aiming to create a controlled enviroment for experimentation, analysis, and hypothesis testing related to neural activity.
 
 ## Research Approach
+This project follows an exploratory and modular research approach.
+Different signal generation and processing strategies are investigated and evalueted over time, allowing the project to evolve as new ideas, tools and insights emerge.
