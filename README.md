@@ -13,4 +13,5 @@ Different signal generation and processing strategies are investigated and evalu
 
 ## Project Status
 🚧 Early-stage research and development. 
+
 Current focus: artificial neural signal generation and low-level processing.
