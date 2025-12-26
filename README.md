@@ -1,7 +1,7 @@
 # What is this Artificial Neural Signal Generator & Processor
 
 ## What is this project?
-It's a computational model inspired by the human brain, capable of generating, processing, and interpreting neural signals.
+The **Artificial Neural Signal Generator & Processor** is a computational research project inspired by the human brain, focused on the generation, processing, and analysis of neural signals, particularly EEG-like signals.
 
 # Motivação cientifica
 
